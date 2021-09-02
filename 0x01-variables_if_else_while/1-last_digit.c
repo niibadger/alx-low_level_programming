@@ -22,7 +22,7 @@ if (w == 0)
 {
 printf("0\n");
 }
-else if (w > 5);
+else if (w > 5)
 {
 printf("greater than 5\n");
 }

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs = compute absolute value of integer
+ * _abs - compute absolute value of integer
  *@n: integer argumnet
  *Return: absolute value
  */
